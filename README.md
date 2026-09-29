@@ -32,7 +32,7 @@ I'm a **Game Developer & Creative Technologist** interested in building educatio
 
 ### Featured Projects
 
-**Ayo Pilah**
+* **Ayo Pilah**
 A computer vision-based educational game that combines waste-sorting education with physical activity.
 
 ### Currently Learning
